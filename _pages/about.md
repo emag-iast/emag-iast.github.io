@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Mathematical models of cooperation and conflict #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Discussion group at TSE/IAST #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
