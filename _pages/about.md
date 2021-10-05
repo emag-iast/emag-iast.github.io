@@ -27,4 +27,4 @@ The default format is 60 minutes of presentation with 30 minutes of discussion.
 
 If you are interested in participating, please send us an e-mail so we can add you to the mailing list.
 
-Organizers: [Jorge Peña](https://jorgeapenas.github.io/){:target="\_blank"} and/or [Péter Bayer](https://www.sites.google.com/view/peterbayer){:target="\_blank"}
+Organizers: [Péter Bayer](https://www.sites.google.com/view/peterbayer){:target="\_blank"} and [Jorge Peña](https://jorgeapenas.github.io/){:target="\_blank"}
