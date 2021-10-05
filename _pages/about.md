@@ -22,4 +22,4 @@ We welcome everyone who is interested in mathematical models of evolution (in th
 
 We're holding our meeting on every second Monday, between 17:00-18:30 (Central European Time), starting on October 11. The time is meant to be flexible. We default format is 60 minutes of presentation with 30 minutes of discussion. We will hold our meetings fully online on Zoom.
 
-If you are interested in participating, please drop [Jorge Peña](https://jorgeapenas.github.io/){:target="\_blank"} and/or [Peter Bayer](https://www.sites.google.com/view/peterbayer){:target="\_blank"} an e-mail so we can add you to the mailing list.
+If you are interested in participating, please drop [Jorge Peña](https://jorgeapenas.github.io/){:target="\_blank"} and/or [Péter Bayer](https://www.sites.google.com/view/peterbayer){:target="\_blank"} an e-mail so we can add you to the mailing list.
