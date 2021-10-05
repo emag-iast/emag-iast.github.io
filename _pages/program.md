@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /next_talks/
-title: next talks
+permalink: /program/
+title: program
 description:
 nav: true
 ---
