@@ -1,7 +1,9 @@
 ---
 layout: page
-permalink: /talks/
-title: talks
-description: talks
+permalink: /past_talks/
+title: past talks
+description:
 nav: true
 ---
+
+Past talks
