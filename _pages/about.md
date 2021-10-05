@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: discussion group at [TSE](https://www.tse-fr.eu/){:target="\_blank"}/[IAST](https://www.iast.fr/){:target="\_blank"} #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,9 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-EMAG (Evolutionary Models and Applications Group) is a discussion group at [TSE](https://www.tse-fr.eu/){:target="\_blank"}/[IAST](https://www.iast.fr/){:target="\_blank"}. We are a group of academics interested in mathematical models of evolution (in the broad sense, including but not limited to models of learning, population dynamics, and networks).
-Our objective is to bring together theoreticians to discuss their latest works or ideas, in an informal setting.
-We would like to use this as an opportunity to learn of each other's models' technical details and give and receive feedback on projects.
+We are a group of researchers interested in mathematical models of evolution (in the broad sense, including but not limited to models of learning, population dynamics, and networks).
+Our objective is to bring together theoreticians to discuss their latest works or ideas in a relatively informal setting.
 
 EMAG organizes a biweekly online seminar on Mondays, 17:00-18:30 (Central European Time).
 The default format is 60 minutes of presentation with 30 minutes of discussion.
