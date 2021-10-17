@@ -22,8 +22,8 @@ We are a group of researchers interested in mathematical models of evolution (in
 Our objective is to bring together theoreticians to discuss their latest works or ideas in a relatively informal setting.
 
 EMAG organizes a biweekly online seminar on Mondays, 17:00-18:30 (Central European Time).
-The default format is 60 minutes of presentation with 30 minutes of discussion.
+The default format is 60 minutes of presentation followed by 30 minutes of discussion.
 
-If you are interested in participating, please send us an e-mail so we can add you to the mailing list.
+If you are interested in participating, please send us an e-mail so that we can add you to the mailing list.
 
 Organizers: [Péter Bayer](https://www.sites.google.com/view/peterbayer){:target="\_blank"} ([TSE](https://www.tse-fr.eu/){:target="\_blank"}) and [Jorge Peña](https://jorgeapenas.github.io/){:target="\_blank"} ([IAST](https://www.iast.fr/){:target="\_blank"})
