@@ -18,10 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-We are a group of researchers interested in mathematical models of evolution (in the broad sense, including but not limited to models of learning, population dynamics, and networks).
+We are a group of researchers interested in mathematical models of evolution (in the broad sense, including but not limited to models of learning, population dynamics, and dynamics on networks).
 Our objective is to bring together theoreticians to discuss their latest works or ideas in a relatively informal setting.
 
-EMAG organizes a biweekly online seminar on Mondays, 17:00-18:30 (Central European Time).
+EMAG organizes a biweekly online meeting on Mondays, 17:00-18:30 (Central European Time).
 The default format is 60 minutes of presentation followed by 30 minutes of discussion.
 
 If you are interested in participating, please send us an e-mail so that we can add you to the mailing list.
