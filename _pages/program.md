@@ -13,3 +13,6 @@ nav: true
 - November 8, 2021: [Aslıhan Akdeniz](https://sites.google.com/view/aslihanakdeniz/home){:target="\_blank"}, [The cancellation effect at the group level](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13995){:target="\_blank"}
 
 - November 22, 2021: [Maria Kleshnina](https://www.mariakleshnina.com/){:target="\_blank"}, The effect of environmental information on cooperation in stochastic games
+
+- December 6, 2021: [Yannick Viossat](https://www.ceremade.dauphine.fr/fr/membres/detail-cv/profile/yannick-viossat.html){:target="\_blank"}, Survival of dominated strategies under
+imitation dynamics
