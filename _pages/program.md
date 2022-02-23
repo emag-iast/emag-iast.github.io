@@ -14,5 +14,18 @@ nav: true
 
 - November 22, 2021: [Maria Kleshnina](https://www.mariakleshnina.com/){:target="\_blank"}, The effect of environmental information on cooperation in stochastic games
 
-- December 6, 2021: [Yannick Viossat](https://www.ceremade.dauphine.fr/fr/membres/detail-cv/profile/yannick-viossat.html){:target="\_blank"}, Survival of dominated strategies under
-imitation dynamics
+- December 6, 2021: [Yannick Viossat](https://www.ceremade.dauphine.fr/fr/membres/detail-cv/profile/yannick-viossat.html){:target="\_blank"}, Survival of dominated strategies under imitation dynamics
+
+- February 28, 2022: [Christoph Kuzmics](https://homepage.uni-graz.at/de/christoph.kuzmics/){:target="\_blank"}, A theory of heterogeneous responsiveness to environmental stimuli
+
+- March 14, 2022
+
+- March 28, 2022: [Laurence Kranich](https://sites.google.com/site/laurencekranich/home){:target="\_blank"}, TBA
+
+- May 9, 2022
+
+- May 23, 2022
+
+- June 13, 2022
+
+- June 27, 2022
