@@ -1,1 +1,1 @@
-My personal academic website.
+EMAG's website.
