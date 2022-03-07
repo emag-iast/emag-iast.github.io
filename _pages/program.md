@@ -18,7 +18,7 @@ nav: true
 
 - February 28, 2022: [Christoph Kuzmics](https://homepage.uni-graz.at/de/christoph.kuzmics/){:target="\_blank"}, A theory of heterogeneous responsiveness to environmental stimuli
 
-- March 14, 2022
+- March 14, 2022: [Feng Fu](https://mhl.host.dartmouth.edu/){:target="\_blank"}, Eco-evolutionary dynamics with environmental feedback: Cooperation in a changing world
 
 - March 28, 2022: [Laurence Kranich](https://sites.google.com/site/laurencekranich/home){:target="\_blank"}, TBA
 
