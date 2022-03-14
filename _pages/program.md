@@ -26,6 +26,6 @@ nav: true
 
 - May 23, 2022
 
-- June 13, 2022
+- June 13, 2022: Piret Avila, TBA
 
 - June 27, 2022
