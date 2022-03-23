@@ -20,7 +20,7 @@ nav: true
 
 - March 14, 2022: [Feng Fu](https://mhl.host.dartmouth.edu/){:target="\_blank"}, Eco-evolutionary dynamics with environmental feedback: Cooperation in a changing world
 
-- March 28, 2022: [Laurence Kranich](https://sites.google.com/site/laurencekranich/home){:target="\_blank"}, TBA
+- March 28, 2022: [Laurence Kranich](https://sites.google.com/site/laurencekranich/home){:target="\_blank"}, Subject to influence: endogenous effects on (social) preferences
 
 - May 9, 2022
 
