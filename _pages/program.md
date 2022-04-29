@@ -24,7 +24,7 @@ nav: true
 
 - May 9, 2022
 
-- May 23, 2022
+- May 23, 2022 [Kateřina Staňková](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/k-katerina-stankova){:target="\_blank"}, TBA
 
 - June 13, 2022: Piret Avila, TBA
 
