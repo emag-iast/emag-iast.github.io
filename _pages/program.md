@@ -22,10 +22,10 @@ nav: true
 
 - March 28, 2022: [Laurence Kranich](https://sites.google.com/site/laurencekranich/home){:target="\_blank"}, Subject to influence: endogenous effects on (social) preferences
 
-- May 9, 2022
+- May 9, 2022: TBA
 
 - May 23, 2022: [Kateřina Staňková](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/k-katerina-stankova){:target="\_blank"}, TBA
 
-- June 13, 2022: Piret Avila, TBA
+- June 13, 2022: [Piret Avila](https://www.iast.fr/people/piret-avila){:target="\_blank"}, TBA
 
-- June 27, 2022
+- June 27, 2022: [Sebastiano Della Lena](https://sites.google.com/view/sebastianodellalena/){:target="\_blank"}, TBA
