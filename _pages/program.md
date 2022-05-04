@@ -22,7 +22,7 @@ nav: true
 
 - March 28, 2022: [Laurence Kranich](https://sites.google.com/site/laurencekranich/home){:target="\_blank"}, Subject to influence: endogenous effects on (social) preferences
 
-- May 9, 2022: [Jianxun Lyu](https://www.ed.ac.uk/profile/jianxun-lyu){:target="\_blank"}, Information, strategic Sophistication and equilibrium selection: a quasi-continuous-time experiment
+- May 10, 2022: [Jianxun Lyu](https://www.ed.ac.uk/profile/jianxun-lyu){:target="\_blank"}, Information, strategic Sophistication and equilibrium selection: a quasi-continuous-time experiment
 
 - May 23, 2022: [Kateřina Staňková](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/k-katerina-stankova){:target="\_blank"}, TBA
 
