@@ -26,6 +26,6 @@ nav: true
 
 - May 23, 2022: [Kateřina Staňková](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/k-katerina-stankova){:target="\_blank"}, TBA
 
-- June 13, 2022: [Piret Avila](https://www.iast.fr/people/piret-avila){:target="\_blank"}, TBA
+- June 13, 2022: [Piret Avila](https://www.iast.fr/people/piret-avila){:target="\_blank"}, [Life-history and deleterious mutation rate coevolution](https://www.biorxiv.org/content/10.1101/2022.05.11.491530v1)
 
 - June 27, 2022: [Sebastiano Della Lena](https://sites.google.com/view/sebastianodellalena/){:target="\_blank"}, TBA
