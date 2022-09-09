@@ -24,8 +24,8 @@ nav: true
 
 - May 10, 2022: [Jianxun Lyu](https://www.ed.ac.uk/profile/jianxun-lyu){:target="\_blank"}, Information, strategic Sophistication and equilibrium selection: a quasi-continuous-time experiment
 
-- May 23, 2022: [Kateřina Staňková](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/k-katerina-stankova){:target="\_blank"}, TBA
+- May 23, 2022: [Kateřina Staňková](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/k-katerina-stankova){:target="\_blank"}, How does speed of evolution impact the success of adaptive therapy in metastatic cancer?
 
 - June 13, 2022: [Piret Avila](https://www.iast.fr/people/piret-avila){:target="\_blank"}, [Life-history and deleterious mutation rate coevolution](https://www.biorxiv.org/content/10.1101/2022.05.11.491530v1)
 
-- June 27, 2022: [Sebastiano Della Lena](https://sites.google.com/view/sebastianodellalena/){:target="\_blank"}, TBA
+- June 29, 2022: [Sebastiano Della Lena](https://sites.google.com/view/sebastianodellalena/){:target="\_blank"}, On the transmission of guilt aversion and the evolution of trust
